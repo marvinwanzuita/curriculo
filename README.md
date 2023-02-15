@@ -15,6 +15,7 @@
 -	**Vidraceiro** – Arte e Quadros – 03/2005 a 10/2007
 
 ## CURSOS E BOOTCAMPS
+-	**Desenvolvimento de Aplicativos Android usando Kotlin** – Instrutor Gabriel Ferrari Ceron (Plataforma Udemy)
 -	**Java Completo Programação Orientada a Objetos + Projetos** – Instrutor Nelio Alves (Plataforma Udemy)
 -	**Programa de Aceleração Dev for Tech (Java / Spring)** –  Plataforma Gama Academy
 -	**Spring Framework Experience** – Plataforma Digital Innovation One
@@ -35,6 +36,11 @@
 
 
 ## CERTIFICADOS
+
+![Desenvolvimento de Aplicativos Android usando Kotlin](https://user-images.githubusercontent.com/66476979/219037226-f0103aa7-3dc2-400b-bb2a-31812aac3452.jpg)
+
+---
+---
 
 ![Java Completo Programação Orientada a Objetos mais Projetos](https://user-images.githubusercontent.com/66476979/212319922-4602af29-4650-4a8a-9b6b-7b15faa5fa4e.jpg)
 
