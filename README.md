@@ -17,6 +17,7 @@
 ## CURSOS E BOOTCAMPS
 -	**Desenvolvimento de Aplicativos Android usando Kotlin** – Instrutor Gabriel Ferrari Ceron (Plataforma Udemy)
 -	**Java Completo Programação Orientada a Objetos + Projetos** – Instrutor Nelio Alves (Plataforma Udemy)
+-	**Java e Orientação a Objetos** – Plataforma Alura (Programa Oracle Next Education)
 -	**Programa de Aceleração Dev for Tech (Java / Spring)** –  Plataforma Gama Academy
 -	**Spring Framework Experience** – Plataforma Digital Innovation One
     - Criando uma API REST Documentada com Spring Web e Swagger
@@ -44,6 +45,10 @@
 
 ![Java Completo Programação Orientada a Objetos mais Projetos](https://user-images.githubusercontent.com/66476979/212319922-4602af29-4650-4a8a-9b6b-7b15faa5fa4e.jpg)
 
+---
+---
+
+![image](https://user-images.githubusercontent.com/66476979/220616972-bc732a9e-9729-4774-b6a2-87bcd6c4c352.png)
 ---
 ---
 
